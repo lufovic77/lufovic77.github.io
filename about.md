@@ -25,6 +25,12 @@ You can reach me at: <span class="email">kyungminkim<span class="highlight">{at}
 [[CV]](assets/cv/CV_KyungminKim.pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=S643eSgAAAAJ&hl=en) / [[Blog]](https://medium.com/@lufovic77
 ) / [[Github]](https://github.com/kyungmax)
 
+# Education
+- **M.S. in Data Science**, [Seoul National University (SNU)](https://www.snu.ac.kr/) (Mar. 2025 - Present)  
+  GPA: 4.05 / 4.3
+- **B.S. in Computer Science & Engineering**, [Sungkyunkwan University (SKKU)](https://www.skku.edu/) (Mar. 2016 - Feb. 2023)  
+  GPA: 4.05 / 4.5, <span class="award-badge">Magna Cum Laude</span> *(includes 18 months of Korean military service)*
+
 # Experiences
 - **Graduate Research Assistant** at [SNU VLDB Lab.](https://sites.google.com/view/snu-vldb-lab/home?authuser=0) (Mar. 2025 - Present)
 - **Data Engineer** at [Kakao Corporation](https://www.kakaocorp.com/page/?lang=ENG&tab=all) (Dec. 2021 - Feb. 2025)
