@@ -40,6 +40,10 @@ You can reach me at: <span class="email">kyungminkim<span class="highlight">{at}
 
 # Publications
 ### International Conferences & Journals
+- **Start Wide, Cut Early: Self-Calibrating Adaptive HNSW Search**  
+  **Kyungmin Kim**, Dongseob Kim, Jihyo Jang, Joobo Shim, Jaeyoung Do, Sang-Won Lee  
+  *Submitted to Proceedings of the VLDB Endowment (PVLDB)*, Aug. 2026, Under Review
+
 - [**Analyzing the range of angles of a solar panel to detect defective cells, using a UAV**](https://ieeexplore.ieee.org/document/8675630)   
   **Kyungmin Kim**, Yoojin Choi, Keonyoung Shim, Hyewon Jeon, Jane Commerford, Eric T. Matson  
   *Third IEEE International Conference on Robotic Computing (IRC 2019)*, Feb. 2019
